@@ -4,8 +4,10 @@
 ### I'm Samuel. I'm a BackEnd Developer.
 
 ##
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelt27&layout=compact&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelt27&theme=tokyonight&show_icons=true&include_all_commits=true&hide=issues"/>
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelt27&layout=compact&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelt27&theme=tokyonight&show_icons=true&include_all_commits=true&hide=issues"/>
+</div>
 
 ##
 
