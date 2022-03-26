@@ -22,9 +22,14 @@
 ####
 > ### I’m currently learning
 ####
-[![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=101010)]()
+####
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=101010)]()
 ####
 [![Docker](https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+####
+[![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 ####
 [![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
