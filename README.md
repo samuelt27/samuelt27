@@ -1,7 +1,7 @@
 # Hello 🌎
 
 ### Allow me to introduce myself.
-### I'm Samuel. I'm a BackEnd Developer.
+### I'm Samuel, a Backend Developer.
 
 ##
 <div>
@@ -14,8 +14,8 @@
 ### Skills
 ####
 [![C Sharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
-[![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 ####
 [![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
@@ -23,11 +23,8 @@
 > ### I’m currently learning
 ####
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=101010)]()
 ####
 [![Docker](https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
-####
-[![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 ####
 [![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
